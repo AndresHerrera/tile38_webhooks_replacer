@@ -6,7 +6,7 @@
 
 ```sh
 pip install pyle38
-```sh
+```
 
 ### Configure
 
@@ -19,6 +19,14 @@ TILE38_CLI_COMMAND = "tile38-cli -h localhost -p 9852"
 ### Ejecutar script
 ```sh
 python replace_url_hooks.py
-```sh
+```
 
+#### Before
+<img  src="before.png"  width="50%" alt="Before">
+
+#### Run
+<img  src="run.png"  width="50%" alt="Run">
+
+#### After
+<img  src="after.png"  width="50%" alt="After">
 
