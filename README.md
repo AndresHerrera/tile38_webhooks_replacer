@@ -22,11 +22,11 @@ python replace_url_hooks.py
 ```
 
 #### Before
-<img  src="before.png"  width="50%" alt="Before">
+<img  src="before.png"  width="90%" alt="Before">
 
 #### Run
-<img  src="run.png"  width="50%" alt="Run">
+<img  src="run.png"  width="90%" alt="Run">
 
 #### After
-<img  src="after.png"  width="50%" alt="After">
+<img  src="after.png"  width="90%" alt="After">
 
